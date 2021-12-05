@@ -14,5 +14,5 @@ insert_final_newline = true           # - For VCS, end files with an empty line.
 max_line_length = 120                 # - Lines should not exceed this length.
 trim_trailing_whitespace = true       # - No whitespace on the end of lines.
 
-[*.md]                                # Markdown:
+[*.md]                                # Markdown files:
 trim_trailing_whitespace = false      # - Leave trailing whitespace.
