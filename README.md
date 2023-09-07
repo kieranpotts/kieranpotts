@@ -1,3 +1,3 @@
 # Hello
 
-I'm a software engineer with 15 years commercial experience. These days I specialize in the JavaScript and web ecosystems, with a particular focus on single-page web apps.
+I am a **computer programmer** and **technical writer** with over 15 years commercial experience. I specialize in ECMAScript languages and the web platform, with a focus on the architecture of single-page web applications, but I am familiar with multiple other computer languages and software stacks.
