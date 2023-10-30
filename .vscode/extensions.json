@@ -1,10 +1,10 @@
 {
   "recommendations": [
 
-    // EditorConfig – .editorconfig file support.
+    // EditorConfig — .editorconfig file support.
     "editorconfig.editorconfig",
 
-    // Markdown Preview Enhanced – Improvements for VS Code's default Markdown preview.
+    // Markdown Preview Enhanced — Improvements for VS Code's default Markdown preview.
     "shd101wyy.markdown-preview-enhanced",
 
   ]
