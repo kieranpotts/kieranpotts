@@ -17,6 +17,7 @@
 - [Bootstrap](https://github.com/kieranpotts/bootstrap) — Shell scripts to provision the development environment for my personal projects.
 - [Cheats](https://github.com/kieranpotts/cheats) — Cheat sheets for various tools and technologies.
 - [CV](https://github.com/kieranpotts/cv) — Source code and build scripts for my résumé.
+- [Designs](https://github.com/kieranpotts/designs) — System designs for real-world and fictional application software.
 - [Devtools](https://github.com/kieranpotts/devtools) — Configs and binaries for my Windows devtools.
 - [Digital Garden](https://github.com/kieranpotts/garden) — A collection of bookmarks, notes, thoughts, and ideas – a sort of personal knowledgebase.
 - [Docs](https://github.com/kieranpotts/docs) — My personal learning notes and developer documentation.
