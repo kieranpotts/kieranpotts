@@ -22,6 +22,7 @@
 - [Digital Garden](https://github.com/kieranpotts/garden) — A collection of bookmarks, notes, thoughts, and ideas – a sort of personal knowledgebase.
 - [Docs](https://github.com/kieranpotts/docs) — My personal learning notes and developer documentation.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
+- [Interviews](https://github.com/kieranpotts/interviews) — Interview preparation, including questions and answers.
 - [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code - WIP.
 - [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook – a process framework for designing, planning, developing, maintaining, and operating software-as-a-service products - WIP.
 - [sh](https://github.com/kieranpotts/sh) — Archive of random shell scripts.
