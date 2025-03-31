@@ -23,7 +23,6 @@
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
 - [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code - WIP.
 - [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook – a process framework for designing, planning, developing, maintaining, and operating software-as-a-service products - WIP.
-- [sh](https://github.com/kieranpotts/sh) — Archive of random shell scripts.
 - [Standards](https://github.com/kieranpotts/standards) — My personal technical standards - WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
 - [Workspace](https://github.com/kieranpotts/workspace) — VS Code workspace configuration for my personal projects.
@@ -35,3 +34,4 @@
 - [makebook](https://github.com/kieranpotts/makebook) — VM and starter kit for making books with Pandoc.
 - [prototypes](https://github.com/kieranpotts/prototypes) — Code experiments.
 - [RFCs](https://github.com/kieranpotts/rfcs) — A template for a Requests for Comments process.
+- [sh](https://github.com/kieranpotts/sh) — Archive of random shell scripts.
