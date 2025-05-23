@@ -11,21 +11,24 @@
 
 ### Active repositories
 
-- [Actions](https://github.com/kieranpotts/actions) — My own GitHub Actions.
+- [Actions](https://github.com/kieranpotts/actions) — GitHub Actions for my own needs.
 - [Avatar](https://github.com/kieranpotts/avatar) — My profile icon.
 - [Blog](https://github.com/kieranpotts/blog) — Source files, and build and deployment scripts, for my blog.
 - [Bootstrap](https://github.com/kieranpotts/bootstrap) — Shell scripts to provision the development environment for my personal projects.
 - [Cheats](https://github.com/kieranpotts/cheats) — Cheat sheets for various tools and technologies.
 - [Designs](https://github.com/kieranpotts/designs) — System designs for real-world and fictional application software.
 - [Devtools](https://github.com/kieranpotts/devtools) — Configs and binaries for my Windows devtools.
-- [Digital Garden](https://github.com/kieranpotts/garden) — A collection of bookmarks, notes, thoughts, and ideas – a sort of personal knowledgebase.
 - [Docs](https://github.com/kieranpotts/docs) — My personal learning notes and developer documentation.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
-- [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common json schema types.
-- [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code - WIP.
-- [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook – a process framework for designing, planning, developing, maintaining, and operating software-as-a-service products - WIP.
-- [Standards](https://github.com/kieranpotts/standards) — My personal technical standards - WIP.
+- [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
+- [Git Aliases](https://github.com/kieranpotts/git-aliases) — Extensions to Git's command line interface – WIP.
+- [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
+- [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code – WIP.
+- [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook for designing, developing, maintaining, and operating application software – WIP.
+- [Standards](https://github.com/kieranpotts/standards) — My personal technical standards – WIP.
+- [SrcFlow](https://github.com/kieranpotts/standards) — A source code flow – WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
+- [Website](https://github.com/kieranpotts/template) — Replacement build for my personal website – WIP.
 - [Workspace](https://github.com/kieranpotts/workspace) — VS Code workspace configuration for my personal projects.
 
 ### Archived repositories
