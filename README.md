@@ -21,7 +21,7 @@
 - [Docs](https://github.com/kieranpotts/docs) — My personal learning notes and developer documentation.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
 - [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
-- [Git Aliases](https://github.com/kieranpotts/git-aliases) — Extensions to Git's command line interface – WIP.
+- [GitEx](https://github.com/kieranpotts/gitex) — Extensions to Git's command line interface – WIP.
 - [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
 - [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code – WIP.
 - [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook for designing, developing, maintaining, and operating application software – WIP.
