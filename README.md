@@ -1,7 +1,10 @@
-👋 Hi, I'm Kieran
+# 👋 Hi, I'm Kieran
 
-* LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kieranpotts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kieranpotts/)](https://www.linkedin.com/in/kieranpotts/)
-* BlueSky: https://bsky.app/profile/kieranpotts.com
+I'm a contract software developer based near Bristol, UK. 
+
+* [Blog](https://kieranpotts.com/)
+* [LinkedIn](https://www.linkedin.com/in/kieranpotts/)
+* [BlueSky](https://bsky.app/profile/kieranpotts.com)
 
 ## GitHub statistics
 
