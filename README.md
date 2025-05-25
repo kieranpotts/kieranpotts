@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Kieran
 
-I'm a contract software developer based near Bristol, UK. 
+I'm a contract software developer based near Bristol, UK.
 
 ## Connect
 
-* [Blog](https://kieranpotts.com/)
-* [LinkedIn](https://www.linkedin.com/in/kieranpotts/)
-* [BlueSky](https://bsky.app/profile/kieranpotts.com)
+- [Blog](https://kieranpotts.com/)
+- [LinkedIn](https://www.linkedin.com/in/kieranpotts/)
+- [BlueSky](https://bsky.app/profile/kieranpotts.com)
 
 ## Projects
 
@@ -19,7 +19,6 @@ I'm a contract software developer based near Bristol, UK.
 - [Cheats](https://github.com/kieranpotts/cheats) — Cheat sheets for various tools and technologies.
 - [Designs](https://github.com/kieranpotts/designs) — System designs for real-world and fictional application software.
 - [Devtools](https://github.com/kieranpotts/devtools) — Configs and binaries for my Windows devtools.
-- [Docs](https://github.com/kieranpotts/docs) — My personal learning notes and developer documentation.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
 - [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
 - [GitEx](https://github.com/kieranpotts/gitex) — Extensions to Git's command line interface – WIP.
