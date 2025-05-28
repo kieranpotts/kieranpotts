@@ -25,6 +25,7 @@ I'm a contract software developer based near Bristol, UK.
 - [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
 - [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code – WIP.
 - [Playbook](https://github.com/kieranpotts/playbook) — My engineering playbook for designing, developing, maintaining, and operating application software – WIP.
+- [Résumé](https://github.com/kieranpotts/resume) — Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.
 - [Standards](https://github.com/kieranpotts/standards) — My personal technical standards – WIP.
 - [SrcFlow](https://github.com/kieranpotts/standards) — A source code flow – WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
