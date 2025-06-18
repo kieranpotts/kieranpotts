@@ -13,7 +13,7 @@ I'm a contract software developer based near Bristol, UK.
 ### Active public repositories
 
 - [Actions](https://github.com/kieranpotts/actions) — GitHub Actions for my own needs.
-- [AsciiBook](https://github.com/kieranpotts/asciibook) — A template for generating digital books from AsciiDoc source.
+- [AsciiBook](https://github.com/kieranpotts/asciibook) — A template for authoring technical books from AsciiDoc.
 - [Avatar](https://github.com/kieranpotts/avatar) — My profile icon.
 - [Blog](https://github.com/kieranpotts/blog) — Source files, and build and deployment scripts, for my blog.
 - [Bootstrap](https://github.com/kieranpotts/bootstrap) — Shell scripts to provision the development environment for my personal projects.
