@@ -10,7 +10,7 @@ I'm a contract software developer based near Bristol, UK.
 
 ## Projects
 
-### Active repositories
+### Active public repositories
 
 - [Actions](https://github.com/kieranpotts/actions) — GitHub Actions for my own needs.
 - [Avatar](https://github.com/kieranpotts/avatar) — My profile icon.
@@ -29,9 +29,8 @@ I'm a contract software developer based near Bristol, UK.
 - [SrcFlow](https://github.com/kieranpotts/standards) — A source code flow – WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
 - [Website](https://github.com/kieranpotts/template) — Replacement build for my personal website – WIP.
-- [Workspace](https://github.com/kieranpotts/workspace) — VS Code workspace configuration for my personal projects.
 
-### Archived repositories
+### Archived public repositories
 
 - [devboxes](https://github.com/kieranpotts/devboxes) — Local development VMs for various software stacks.
 - [eslint-config](https://github.com/kieranpotts/eslint-config) — ESLint configuration to enforce coding standards.
