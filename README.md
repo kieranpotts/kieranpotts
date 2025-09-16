@@ -18,17 +18,13 @@ I'm a contract software developer based near Bristol, UK.
 - [Blog](https://github.com/kieranpotts/blog) — Source files, and build and deployment scripts, for my blog.
 - [Bootstrap](https://github.com/kieranpotts/bootstrap) — Shell scripts to provision the development environment for my personal projects.
 - [Cheats](https://github.com/kieranpotts/cheats) — Cheat sheets for various tools and technologies.
-- [Designs](https://github.com/kieranpotts/designs) — System designs for real-world and fictional application software.
 - [Devtools](https://github.com/kieranpotts/devtools) — Configs and binaries for my Windows devtools.
-- [Docker LaTeX](https://github.com/kieranpotts/docker-latex) — Run LaTeX compilations in a Docker container – WIP.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My UNIX dotfiles.
 - [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
-- [GitEx](https://github.com/kieranpotts/gitex) — Extensions to Git's command line interface – WIP.
 - [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
 - [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code – WIP.
 - [Résumé](https://github.com/kieranpotts/resume) — Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.
 - [Standards](https://github.com/kieranpotts/standards) — My personal technical standards – WIP.
-- [SrcFlow](https://github.com/kieranpotts/standards) — A source code flow – WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
 - [Website](https://github.com/kieranpotts/template) — Replacement build for my personal website – WIP.
 
