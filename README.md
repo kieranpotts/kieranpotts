@@ -20,6 +20,7 @@ I'm a contract software developer based near Bristol, UK.
 - [Cheats](https://github.com/kieranpotts/cheats) — Cheat sheets for various tools and technologies.
 - [Devtools](https://github.com/kieranpotts/devtools) — Configs and binaries for my Windows devtools.
 - [Dotfiles](https://github.com/kieranpotts/dotfiles) — My Unix dotfiles.
+- [docker-latex](https://github.com/kieranpotts/docker-latex) — Build script for a Docker image used for compiling documents from LaTeX sources.
 - [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
 - [GitEx](https://github.com/kieranpotts/gitex) — Git extensions for common workflows – WIP.
 - [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
