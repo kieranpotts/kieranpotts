@@ -10,6 +10,10 @@ I'm a contract software developer based near Bristol, UK.
 
 ## Projects
 
+// TODO: Update repositories list.
+// TODO: Provide instructions to checkout the whole workspace.
+// TODO: Specify which projects are open for external contributions.
+
 ### Active public repositories
 
 - [Actions](https://github.com/kieranpotts/actions) — GitHub Actions for my own needs.
