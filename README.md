@@ -28,7 +28,8 @@ I'm a contract software developer based near Bristol, UK.
 - [Garden](https://github.com/kieranpotts/garden) — My digital garden – a repository bookmarks, notes, thoughts, etc. – WIP.
 - [GitEx](https://github.com/kieranpotts/gitex) — Git extensions for common workflows – WIP.
 - [JSON Schema](https://github.com/kieranpotts/json-schema) — A library of common JSON Schema types.
-- [Ocean](https://github.com/kieranpotts/ocean) — A family of ocean-themed themes for VS Code – WIP.
+- [Lumex](https://github.com/kieranpotts/vscode-theme-lumex) — A new theme family for VS Code – WIP.
+- [Ocean](https://github.com/kieranpotts/vscode-theme-ocean) — A family of ocean-themed themes for VS Code – WIP.
 - [Résumé](https://github.com/kieranpotts/resume) — Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.
 - [Standards](https://github.com/kieranpotts/standards) — My personal technical standards – WIP.
 - [Template](https://github.com/kieranpotts/template) — A template for new code repositories.
