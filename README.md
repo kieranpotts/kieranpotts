@@ -46,8 +46,3 @@ TODO: Specify which projects are open for external contributions.
 - [prototypes](https://github.com/kieranpotts/prototypes) — Code experiments.
 - [RFCs](https://github.com/kieranpotts/rfcs) — A template for a Requests for Comments process.
 - [sh](https://github.com/kieranpotts/sh) — Archive of random shell scripts.
-
-## Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kieranpotts&layout=donut&cache_seconds=86400&custom_title=Languages)](https://github.com/kieranpotts)
-![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieranpotts&show_icons=true&hide_rank=true&cache_seconds=86400&custom_title=Activity)
