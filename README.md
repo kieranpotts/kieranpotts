@@ -7,6 +7,7 @@ I'm a contract software developer based near Bristol, UK.
 - [Blog](https://kieranpotts.com/)
 - [LinkedIn](https://www.linkedin.com/in/kieranpotts/)
 - [BlueSky](https://bsky.app/profile/kieranpotts.com)
+- [Email](mailto:code@kieranpotts.com)
 
 ## Projects
 
