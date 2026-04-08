@@ -19,7 +19,7 @@ TODO: Specify which projects are open for external contributions.
 
 ### Active public repositories
 
-- [Actions](https://github.com/kieranpotts/actions) — GitHub Actions for my own needs.
+- [Actions](https://github.com/kieranpotts/actions) — Reusable GitHub CI/CD workflows.
 - [AsciiBook](https://github.com/kieranpotts/asciibook) — A template for authoring technical books from AsciiDoc.
 - [Avatar](https://github.com/kieranpotts/avatar) — My profile icon.
 - [Blog](https://github.com/kieranpotts/blog) — Source files, and build and deployment scripts, for my blog.
