@@ -2,12 +2,10 @@
 
 I'm a contract software developer based near Bristol, UK.
 
-## Connect
-
-- [Blog](https://kieranpotts.com/)
-- [LinkedIn](https://www.linkedin.com/in/kieranpotts/)
-- [BlueSky](https://bsky.app/profile/kieranpotts.com)
-- [Email](mailto:code@kieranpotts.com)
+[![Blog](https://img.shields.io/badge/kieranpotts.com-0A66C2?style=for-the-badge)](https://kieranpotts.com/)
+[![Email](https://img.shields.io/badge/code@kieranpotts.com-0A66C2?style=for-the-badge)](mailto:code@kieranpotts.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kieranpotts/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0A66C2?style=for-the-badge)](https://bsky.app/profile/kieranpotts.com)
 
 ## Projects
 
