@@ -11,19 +11,19 @@ I'm a contract software developer based near Bristol, UK.
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [.github](https://github.com/kieranpotts/.github) | Shared issue and PR templates, and other community health files, for all my repositories. | Active |
+| [.github](https://github.com/kieranpotts/.github) | Issue and PR templates for all my repositories. | Active |
 | [Actions](https://github.com/kieranpotts/actions) | Reusable GitHub CI/CD workflows. | Active |
 | [AsciiBook](https://github.com/kieranpotts/asciibook) | A template for authoring technical books from AsciiDoc. | Active |
 | [Avatar](https://github.com/kieranpotts/avatar) | My profile icon. | Active |
 | [Blog](https://github.com/kieranpotts/blog) | Source files, and build and deployment scripts, for my blog. | Active |
 | [Bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb. | Active |
-| [Bootstrap](https://github.com/kieranpotts/bootstrap) | Shell scripts to provision the development environment for my personal projects. | Active |
+| [Bootstrap](https://github.com/kieranpotts/bootstrap) | Shell scripts to provision my local development environment. | Active |
 | [Cheats](https://github.com/kieranpotts/cheats) | Cheat sheets for various tools and technologies. | Active |
 | [devboxes](https://github.com/kieranpotts/devboxes) | Local development VMs for various software stacks. | Archived |
-| [Devtools](https://github.com/kieranpotts/devtools) | Configs and binaries for my Windows devtools. | Active |
+| [Devtools](https://github.com/kieranpotts/devtools) | Configs and binaries for my development tools. | Active |
 | [Dictionary](https://github.com/kieranpotts/dictionary) | Allowed spellings. | Active |
-| [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | A Docker image for my typical dev environment. | Active |
-| [docker-latex](https://github.com/kieranpotts/docker-latex) | Build script for a Docker image used for compiling documents from LaTeX sources. | Active |
+| [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | Build script for a Docker image of my local dev environment. | Active |
+| [docker-latex](https://github.com/kieranpotts/docker-latex) | Build script for a Docker image for compiling documents from LaTeX sources. | Active |
 | [Dotfiles](https://github.com/kieranpotts/dotfiles) | My Unix dotfiles. | Active |
 | [eslint-config](https://github.com/kieranpotts/eslint-config) | ESLint configuration to enforce coding standards. | Archived |
 | [Garden](https://github.com/kieranpotts/garden) | My digital garden – a repository bookmarks, notes, thoughts, etc. | Active |
