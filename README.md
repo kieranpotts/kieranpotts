@@ -9,7 +9,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 ## Projects
 
-🌱 new project • ⭐ active development • ⚒️ maintenance • 🔒 archived
+🌱 new project ⭐ active development ⚒️ maintenance 🔒 archived
 
 |    | Repository | Description |
 |----|------------|-------------|
