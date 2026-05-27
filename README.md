@@ -16,8 +16,8 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [.github](https://github.com/kieranpotts/.github) | Issue and PR templates, and other community health artifacts, for all my personal repositories. |
 | 🚀 | [actions](https://github.com/kieranpotts/actions) | Reusable GitHub CI/CD workflows. |
 | ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook) | A template for authoring technical books from AsciiDoc. |
-| 🚀 | [avatar](https://github.com/kieranpotts/avatar) | My profile icon. |
-| 🚀 | [blog](https://github.com/kieranpotts/blog) | Source files, and build and deployment scripts, for my blog. |
+| ⚒️ | [avatar](https://github.com/kieranpotts/avatar) | My profile icon. |
+| 🚧 | [blog](https://github.com/kieranpotts/blog) | Source files, and build and deployment scripts, for my blog. |
 | 🚧 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb. |
 | 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap) | Shell scripts to provision my local development environment. |
 | 🚧 | [cheats](https://github.com/kieranpotts/cheats) | My personal documentation and learning notes for various languages and tools. |
