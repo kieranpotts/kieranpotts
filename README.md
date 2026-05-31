@@ -33,12 +33,12 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚧 | [gitex](https://github.com/kieranpotts/gitex) | Git extensions for common source control workflows. |
 | ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema) | A library of common JSON Schema types. |
 | 🔒 | [makebook](https://github.com/kieranpotts/makebook) | VM and starter kit for making books with Pandoc. |
-| 🚧 | [pi](https://github.com/kieranpotts/pi) | My extensions for the Pi coding agent. |
+| 🚀 | [pi](https://github.com/kieranpotts/pi) | Personal and experimental extensions for the Pi coding agent. |
 | 🚧 | [playbook](https://github.com/kieranpotts/playbook) | Documents my software development methods and tools. |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
 | 🔒 | [prototypes](https://github.com/kieranpotts/prototypes) | Code experiments. |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume) | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX. |
-| 🔒 | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
+| 🚧 | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
 | 🚀 | [root](https://github.com/kieranpotts/root) | Install scripts and VS Code workspace configuration for my personal projects. |
 | 🔒 | [sh](https://github.com/kieranpotts/sh) | Archive of random shell scripts. |
 | 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents. |
