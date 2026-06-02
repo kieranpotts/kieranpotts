@@ -33,6 +33,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚧 | [gitex](https://github.com/kieranpotts/gitex) | Git extensions for common source control workflows. |
 | ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema) | A library of common JSON Schema types. |
 | 🔒 | [makebook](https://github.com/kieranpotts/makebook) | VM and starter kit for making books with Pandoc. |
+| 🚧 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama. |
 | 🚀 | [pi](https://github.com/kieranpotts/pi) | Personal and experimental extensions for the Pi coding agent. |
 | 🚧 | [playbook](https://github.com/kieranpotts/playbook) | Documents my software development methods and tools. |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
