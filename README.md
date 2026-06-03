@@ -39,11 +39,11 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
 | 🔒 | [prototypes](https://github.com/kieranpotts/prototypes) | Code experiments. |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume) | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX. |
-| 🚧 | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
+| ⚒️ | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
 | 🚀 | [root](https://github.com/kieranpotts/root) | Install scripts and VS Code workspace configuration for my personal projects. |
 | 🔒 | [sh](https://github.com/kieranpotts/sh) | Archive of random shell scripts. |
 | 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents. |
-| 🚀 | [specs](https://github.com/kieranpotts/specs) | A template for a softare requirements specification (SRS) repository. |
+| ⚒️ | [specs](https://github.com/kieranpotts/specs) | A template for a softare requirements specification (SRS) repository. |
 | 🚧 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards. |
 | 🚀 | [template](https://github.com/kieranpotts/template) | A template for new code repositories. |
 | 🔒 | [tests](https://github.com/kieranpotts/tests) | Take-home technical tests for IT recruitment. |
