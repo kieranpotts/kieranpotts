@@ -30,10 +30,10 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [pi](https://github.com/kieranpotts/pi) | Personal and experimental extensions for the Pi coding agent. |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
-| 🚀 | [root](https://github.com/kieranpotts/root) | Install scripts and VS Code workspace configuration for my personal projects. |
 | 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents. |
 | ⚒️ | [specs](https://github.com/kieranpotts/specs) | A template for a softare requirements specification (SRS) repository. |
 | 🚀 | [template](https://github.com/kieranpotts/template) | A template for new code repositories. |
+| 🚀 | [workspace](https://github.com/kieranpotts/workspace) | Install scripts and VS Code workspace configuration for my personal projects. |
 
 ### Projects
 
@@ -50,13 +50,13 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 |    | Repository | Description |
 |----|------------|-------------|
-| 🚧 | [blog](https://github.com/kieranpotts/blog) | Source files, and build and deployment scripts, for my blog. |
 | 🚧 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb. |
 | 🚧 | [cheats](https://github.com/kieranpotts/cheats) | My personal documentation and learning notes for various languages and tools. |
 | 🚧 | [garden](https://github.com/kieranpotts/garden) | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
 | 🚧 | [playbook](https://github.com/kieranpotts/playbook) | Documents my software development methods and tools. |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume) | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX. |
 | 🚧 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards. |
+| 🚧 | [thoughts](https://github.com/kieranpotts/thoughts) | Source files, and build and deployment scripts, for my blog. |
 | 🚧 | [website](https://github.com/kieranpotts/website) | Build scripts for my website. |
 
 ### Miscellaneous
