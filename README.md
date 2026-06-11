@@ -18,6 +18,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [.github](https://github.com/kieranpotts/.github) | Issue and PR templates for all my personal repositories. |
 | 🚀 | [actions](https://github.com/kieranpotts/actions) | Reusable GitHub CI/CD workflows. |
 | 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap) | Shell scripts to provision my local development environment. |
+| 🚧 | [design](https://github.com/kieranpotts/design) | A template for managing design docs in version control. |
 | 🔒 | [devboxes](https://github.com/kieranpotts/devboxes) | Local development VMs for various software stacks. |
 | 🚀 | [devtools](https://github.com/kieranpotts/devtools) | Configs and binaries for my development tools. |
 | 🚀 | [dictionary](https://github.com/kieranpotts/dictionary) | Allowed spellings. |
@@ -28,6 +29,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🔒 | [genies](https://github.com/kieranpotts/genies) | Local LLM-based AI instances for code generation. |
 | 🚧 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama. |
 | 🚀 | [pi](https://github.com/kieranpotts/pi) | Personal and experimental extensions for the Pi coding agent. |
+| 🚧 | [plans](https://github.com/kieranpotts/plans) | A template for managing implementation plans in version control. |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
 | 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents. |
