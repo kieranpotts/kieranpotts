@@ -11,7 +11,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 🚧 under construction 🚀 active development ⚒️ maintenance 🔒 archived
 
-### Development tools
+### Devtools
 
 |    | Repository | Description |
 |----|------------|-------------|
@@ -31,7 +31,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks) | Reusable configurations for the pre-commit framework. |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc) | A template for a Requests for Comments (RFCs) process. |
 | 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents. |
-| ⚒️ | [specs](https://github.com/kieranpotts/specs) | A template for a softare requirements specification (SRS) repository. |
+| ⚒️ | [specs](https://github.com/kieranpotts/specs) | A template for a software requirements specification (SRS) repository. |
 | 🚀 | [template](https://github.com/kieranpotts/template) | A template for new code repositories. |
 | 🚀 | [workspace](https://github.com/kieranpotts/workspace) | Install scripts and VS Code workspace configuration for my personal projects. |
 
