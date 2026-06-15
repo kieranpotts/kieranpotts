@@ -19,7 +19,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 |----|---------------------------------------------------------|------------------------------------------------------------------------|
 | ⚒️ | [design](https://github.com/kieranpotts/design)         | A template for managing design docs in version control.                |
 | 🔒 | [genies](https://github.com/kieranpotts/genies)         | Local LLM-based AI instances for code generation.                      |
-| 🚧 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                        |
+| 🚀 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                        |
 | 🚀 | [pi](https://github.com/kieranpotts/pi)                 | Personal and experimental extensions for the Pi coding agent.          |
 | ⚒️ | [plans](https://github.com/kieranpotts/plans)           | A template for managing implementation plans in version control.       |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc)               | A template for a Requests for Comments (RFCs) process.                 |
@@ -59,14 +59,14 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 |    | Repository                                            | Description                                                                           |
 |----|-------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 🚧 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb.                                             |
-| 🚧 | [cheats](https://github.com/kieranpotts/cheats)       | My personal documentation and learning notes for various languages and tools.         |
-| 🚧 | [garden](https://github.com/kieranpotts/garden)       | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
+| 🚀 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb.                                             |
+| 🚀 | [cheats](https://github.com/kieranpotts/cheats)       | My personal documentation and learning notes for various languages and tools.         |
+| 🚀 | [garden](https://github.com/kieranpotts/garden)       | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
 | 🚧 | [playbook](https://github.com/kieranpotts/playbook)   | Documents my software development methods and tools.                                  |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume)       | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.   |
-| 🚧 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards.                                                      |
-| 🚧 | [thoughts](https://github.com/kieranpotts/thoughts)   | Source files, and build and deployment scripts, for my blog.                          |
-| 🚧 | [website](https://github.com/kieranpotts/website)     | Build scripts for my website.                                                         |
+| 🚀 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards.                                                      |
+| 🚀 | [thoughts](https://github.com/kieranpotts/thoughts)   | Source files, and build and deployment scripts, for my blog.                          |
+| 🚀 | [website](https://github.com/kieranpotts/website)     | Build scripts for my website.                                                         |
 
 ### Miscellaneous
 
