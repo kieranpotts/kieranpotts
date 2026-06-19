@@ -11,9 +11,9 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 🚧 under construction 🚀 active development ⚒️ maintenance 🔒 archived
 
-### Devtools
+### Agentic workflow tools
 
-**Agentic workflow tools** — The following projects form an ecosystem of methods and tools for orchestrating change in software through AI agents. The foundation of the system is a suite of [agent skills](https://github.com/kieranpotts/skills) covering universal phases of the software development lifecycle. These are backed by version-controlled systems for managing software requirements, technical decisions, design documentation, and implementation plans.
+The following projects form an ecosystem of methods and tools for orchestrating change in software through AI agents. The foundation of the system is a suite of [agent skills](https://github.com/kieranpotts/skills) covering universal phases of the software development lifecycle. These are backed by version-controlled systems for managing software requirements, technical decisions, design documentation, and implementation plans.
 
 |    | Repository                                              | Description                                                            |
 |----|---------------------------------------------------------|------------------------------------------------------------------------|
@@ -26,12 +26,13 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | 🚀 | [skills](https://github.com/kieranpotts/skills)         | Discrete, reusable capabilities for AI agents.                         |
 | ⚒️ | [specs](https://github.com/kieranpotts/specs)           | A template for a software requirements specification (SRS) repository. |
 
-**Other devtools** —
+### Other devtools
 
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | 🚀 | [.github](https://github.com/kieranpotts/.github)                         | Issue and PR templates for all my personal repositories.       |
 | 🚀 | [actions](https://github.com/kieranpotts/actions)                         | Reusable GitHub CI/CD workflows.                               |
+| ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook)                     | A template for authoring technical books from AsciiDoc.        |
 | 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap)                     | Shell scripts to provision my local development environment.   |
 | 🔒 | [devboxes](https://github.com/kieranpotts/devboxes)                       | Local development VMs for various software stacks.             |
 | 🚀 | [devtools](https://github.com/kieranpotts/devtools)                       | Configs and binaries for my development tools.                 |
@@ -40,25 +41,20 @@ I'm a contract software developer with 20+ years designing, building, and docume
 | ⚒️ | [docker-latex](https://github.com/kieranpotts/docker-latex)               | Docker image for compiling documents from LaTeX sources.       |
 | 🚀 | [dotfiles](https://github.com/kieranpotts/dotfiles)                       | My UNIX dotfiles.                                              |
 | 🔒 | [eslint-config](https://github.com/kieranpotts/eslint-config)             | ESLint configuration to enforce my JS/TS coding standards.     |
+| 🚧 | [gitex](https://github.com/kieranpotts/gitex)                             | Git extensions for common source control workflows.            |
+| ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                         |
+| 🔒 | [makebook](https://github.com/kieranpotts/makebook)                       | VM and starter kit for making books with Pandoc.               |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.          |
 | 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                          |
-| 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects. |
-
-### Projects
-
-|    | Repository                                                              | Description                                             |
-|----|-------------------------------------------------------------------------|---------------------------------------------------------|
-| ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook)                   | A template for authoring technical books from AsciiDoc. |
-| 🚧 | [gitex](https://github.com/kieranpotts/gitex)                           | Git extensions for common source control workflows.     |
-| ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)               | A library of common JSON Schema types.                  |
-| 🔒 | [makebook](https://github.com/kieranpotts/makebook)                     | VM and starter kit for making books with Pandoc.        |
 | 🚧 | [vscode-theme-lumex](https://github.com/kieranpotts/vscode-theme-lumex) | A modern VS Code theme family.                          |
 | ⚒️ | [vscode-theme-ocean](https://github.com/kieranpotts/vscode-theme-ocean) | A family of ocean-themed themes for VS Code.            |
+| 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects. |
 
 ### Content
 
 |    | Repository                                            | Description                                                                           |
 |----|-------------------------------------------------------|---------------------------------------------------------------------------------------|
+| ⚒️ | [avatar](https://github.com/kieranpotts/avatar)       | My profile icon.                                                                      |
 | 🚀 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb.                                             |
 | 🚀 | [cheats](https://github.com/kieranpotts/cheats)       | My personal documentation and learning notes for various languages and tools.         |
 | 🚀 | [garden](https://github.com/kieranpotts/garden)       | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
@@ -73,7 +69,6 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 |    | Repository                                              | Description                                   |
 |----|---------------------------------------------------------|-----------------------------------------------|
-| ⚒️ | [avatar](https://github.com/kieranpotts/avatar)         | My profile icon.                              |
 | 🔒 | [prototypes](https://github.com/kieranpotts/prototypes) | Code experiments.                             |
 | 🔒 | [sh](https://github.com/kieranpotts/sh)                 | Archive of random shell scripts.              |
 | 🔒 | [tests](https://github.com/kieranpotts/tests)           | Take-home technical tests for IT recruitment. |
