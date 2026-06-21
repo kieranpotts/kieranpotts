@@ -43,11 +43,10 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 | 🔒 | [eslint-config](https://github.com/kieranpotts/eslint-config)             | ESLint configuration to enforce my JS/TS coding standards.     |
 | 🚧 | [gitex](https://github.com/kieranpotts/gitex)                             | Git extensions for common source control workflows.            |
 | ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                         |
+| 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                 |
 | 🔒 | [makebook](https://github.com/kieranpotts/makebook)                       | VM and starter kit for making books with Pandoc.               |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.          |
 | 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                          |
-| 🚧 | [vscode-theme-lumex](https://github.com/kieranpotts/vscode-theme-lumex) | A modern VS Code theme family.                          |
-| ⚒️ | [vscode-theme-ocean](https://github.com/kieranpotts/vscode-theme-ocean) | A family of ocean-themed themes for VS Code.            |
 | 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects. |
 
 ### Content
