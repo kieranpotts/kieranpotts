@@ -45,6 +45,7 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 | ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                         |
 | 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                 |
 | 🔒 | [makebook](https://github.com/kieranpotts/makebook)                       | VM and starter kit for making books with Pandoc.               |
+| 🔒 | [ocean](https://github.com/kieranpotts/ocean)                             | Experimental Ocean-themed VS Code theme.                       |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.          |
 | 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                          |
 | 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects. |
