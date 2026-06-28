@@ -13,7 +13,7 @@ I'm a contract software developer with 20+ years designing, building, and docume
 
 ### Agentic workflow tools
 
-The following projects form an ecosystem of methods and tools for orchestrating change in software through AI agents. The foundation of the system is a suite of [agent skills](https://github.com/kieranpotts/skills) covering universal phases of the software development lifecycle. These are backed by version-controlled systems for managing software requirements, technical decisions, design documentation, and implementation plans.
+The following projects form an ecosystem of methods and tools for orchestrating change in software through AI agents. The foundation of the system is a suite of [agent skills](https://github.com/kieranpotts/skills) covering universal phases of the software development lifecycle. These are backed by version-controlled systems for managing software requirements, technical decisions, design documentation, and delivery plans.
 
 |    | Repository                                              | Description                                                            |
 |----|---------------------------------------------------------|------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 | ⚒️ | [specs](https://github.com/kieranpotts/specs)           | A template for a software requirements specification (SRS) repository. |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc)               | A template for a Requests for Comments (RFCs) process.                 |
 | ⚒️ | [design](https://github.com/kieranpotts/design)         | A template for managing design docs in version control.                |
-| ⚒️ | [plans](https://github.com/kieranpotts/plans)           | A template for managing implementation plans in version control.       |
+| ⚒️ | [plans](https://github.com/kieranpotts/plans)           | A template for managing delivery plans in version control.             |
 
 ### Local development environment
 
