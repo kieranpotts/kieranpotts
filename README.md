@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kieran
 
-I'm a contract software developer with 20+ years designing, building, and documenting full-stack web applications for enterprise. I'm based near Bristol, UK.
+I'm a staff software developer with 20 years experience designing, building, and documenting full-stack web applications for enterprise. I'm based near Bristol and Bath in the southwest of the UK.
 
 [![Blog](https://img.shields.io/badge/kieranpotts.com-0A66C2?style=for-the-badge)](https://kieranpotts.com/)
 [![Email](https://img.shields.io/badge/code@kieranpotts.com-0A66C2?style=for-the-badge)](mailto:code@kieranpotts.com)
@@ -27,6 +27,8 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 
 ### Local development environment
 
+Tools and configuration for provisioning and maintaining a consistent personal development environment, from initial machine setup through to day-to-day shell, Git, and editor configuration.
+
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | 🚧 | [gitex](https://github.com/kieranpotts/gitex)                             | Git extensions for common source control workflows.            |
@@ -40,6 +42,8 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 
 ### Other devtools
 
+Standalone tools, templates, and reference libraries that support my software projects.
+
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | 🚀 | [actions](https://github.com/kieranpotts/actions)                         | Reusable GitHub CI/CD workflows.                               |
@@ -51,6 +55,8 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 | 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                 |
 
 ### Content
+
+Source files and build/deployment scripts for the things I write and publish, including my website, blog, digital garden, and résumé.
 
 |    | Repository                                            | Description                                                                           |
 |----|-------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -65,6 +71,8 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 | ⚒️ | [avatar](https://github.com/kieranpotts/avatar)       | My profile icon.                                                                      |
 
 ### Archived projects
+
+Older projects I no longer maintain or actively use, kept for reference or posterity.
 
 |    | Repository                                                    | Description                                                |
 |----|---------------------------------------------------------------|------------------------------------------------------------|
