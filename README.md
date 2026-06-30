@@ -42,7 +42,6 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
-
 | 🚀 | [actions](https://github.com/kieranpotts/actions)                         | Reusable GitHub CI/CD workflows.                               |
 | ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook)                     | A template for authoring technical books from AsciiDoc.        |
 | 🚀 | [dictionary](https://github.com/kieranpotts/dictionary)                   | Allowed spellings.                                             |
