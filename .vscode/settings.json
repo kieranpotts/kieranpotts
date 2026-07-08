@@ -14,7 +14,8 @@
   "editor.wordWrapColumn": 120,
 
   "[markdown]": {
-    /* Wrap Markdown files at 72 characters. */
+    /* Wrap Markdown files at 150 characters – longer than normal to
+    accommodate wide tables. */
     "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 150,
 
