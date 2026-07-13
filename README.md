@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Kieran
 
-I'm a staff software developer with 20 years experience designing, building, and documenting full-stack web applications for enterprise. I'm based near Bristol and Bath in the south-west of England.
+I'm a staff software developer with 20 years experience designing, building,
+and documenting full-stack web applications for enterprise. I'm based near
+Bristol and Bath in the south-west of England.
 
 [![Blog](https://img.shields.io/badge/kieranpotts.com-0A66C2?style=for-the-badge)](https://kieranpotts.com/)
 [![Email](https://img.shields.io/badge/code@kieranpotts.com-0A66C2?style=for-the-badge)](mailto:code@kieranpotts.com)
@@ -13,7 +15,15 @@ I'm a staff software developer with 20 years experience designing, building, and
 
 ### Agentic workflow tools
 
-The following projects form an ecosystem of methods and tools for orchestrating change in software through AI agents. The foundation of the system is a suite of [agent skills](https://github.com/kieranpotts/skills) covering universal phases of the software development lifecycle. These are backed by version-controlled systems for managing software requirements, technical decisions, design documentation, and delivery plans.
+The following projects form an ecosystem of methods and tools for orchestrating
+change in software through AI agents. The foundation of the system is a custom
+agent harness based around the [Pi](https://github.com/kieranpotts/pi) coding
+agent framework.
+A collection of [agent skills](https://github.com/kieranpotts/skills), covering
+universal phases of the software development lifecycle, are backed by
+version-controlled systems for managing software requirements,
+technical decisions, design documentation, delivery plans,
+architectural audits, and security analysis.
 
 |    | Repository                                              | Description                                                            |
 |----|---------------------------------------------------------|------------------------------------------------------------------------|
@@ -29,7 +39,9 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 
 ### Local development environment
 
-Tools and configuration for provisioning and maintaining a consistent personal development environment, from initial machine setup through to day-to-day shell, Git, and editor configuration.
+Tools and configuration for provisioning and maintaining a consistent personal
+development environment, from initial machine setup through to day-to-day
+shell, Git, and editor configuration.
 
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -44,7 +56,8 @@ Tools and configuration for provisioning and maintaining a consistent personal d
 
 ### Other devtools
 
-Standalone tools, templates, and reference libraries that support my software projects.
+Standalone tools, templates, and reference libraries that support my
+software projects.
 
 |    | Repository                                                                | Description                                                    |
 |----|---------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -58,7 +71,8 @@ Standalone tools, templates, and reference libraries that support my software pr
 
 ### Content
 
-Source files and build/deployment scripts for the things I write and publish, including my website, blog, digital garden, and résumé.
+Source files and build/deployment scripts for the things I write and publish,
+including my website, blog, digital garden, and résumé.
 
 |    | Repository                                            | Description                                                                           |
 |----|-------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -74,7 +88,8 @@ Source files and build/deployment scripts for the things I write and publish, in
 
 ### Archived projects
 
-Older projects I no longer maintain or actively use, kept for reference or posterity.
+Older projects I no longer maintain or actively use, kept for reference
+or posterity.
 
 |    | Repository                                                    | Description                                                |
 |----|---------------------------------------------------------------|------------------------------------------------------------|
