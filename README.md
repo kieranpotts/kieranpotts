@@ -17,13 +17,15 @@ The following projects form an ecosystem of methods and tools for orchestrating 
 
 |    | Repository                                              | Description                                                            |
 |----|---------------------------------------------------------|------------------------------------------------------------------------|
-| 🚀 | [skills](https://github.com/kieranpotts/skills)         | Discrete, reusable capabilities for AI agents.                         |
-| 🚀 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                        |
 | 🚀 | [pi](https://github.com/kieranpotts/pi)                 | Personal and experimental extensions for the Pi coding agent.          |
+| 🚀 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                        |
+| 🚀 | [skills](https://github.com/kieranpotts/skills)         | Discrete, reusable capabilities for AI agents.                         |
 | ⚒️ | [specs](https://github.com/kieranpotts/specs)           | A template for a software requirements specification (SRS) repository. |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc)               | A template for a Requests for Comments (RFCs) process.                 |
 | ⚒️ | [design](https://github.com/kieranpotts/design)         | A template for managing design docs in version control.                |
 | ⚒️ | [plans](https://github.com/kieranpotts/plans)           | A template for managing delivery plans in version control.             |
+| ⚒️ | [audits](https://github.com/kieranpotts/audits)         | A template for architectural audits.                                   |
+| ⚒️ | [risks](https://github.com/kieranpotts/risks)           | A template for threat modeling sessions and a risk.                    |
 
 ### Local development environment
 
