@@ -29,7 +29,7 @@ architectural audits, and security analysis.
 |----|---------------------------------------------------------|--------------------------------------------------------------------------------------|
 | 🚀 | [pi](https://github.com/kieranpotts/pi)                 | Personal and experimental extensions for the Pi coding agent.                        |
 | 🚀 | [genie](https://github.com/kieranpotts/genie)           | Hardened agent harness infrastructure for away-from-keyword, agentic loop workflows. |
-| 🚀 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                                      |
+| 🔒 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                                      |
 | 🚀 | [skills](https://github.com/kieranpotts/skills)         | Discrete, reusable capabilities for AI agents.                                       |
 | ⚒️ | [specs](https://github.com/kieranpotts/specs)           | A template for a software requirements specification (SRS) repository.               |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc)               | A template for a Requests for Comments (RFCs) process.                               |
