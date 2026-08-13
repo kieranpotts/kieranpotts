@@ -2,7 +2,7 @@
 
 This is Kieran Potts' GitHub profile repository — a special `.github`-style
 repo whose `README.md` is rendered on his GitHub profile page
-(github.com/kieranpotts). It has no code and no build step; the whole
+(github.com/kieranpotts). It has no code and no build step. The whole
 project is that one file, an index of his personal repositories grouped by
 theme (agentic workflow tools, local dev environment, devtools/templates,
 etc.), each annotated with a status emoji (under construction / active /
