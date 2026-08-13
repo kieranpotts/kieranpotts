@@ -44,16 +44,17 @@ Tools and configuration for provisioning and maintaining a consistent personal
 development environment, from initial machine setup through to day-to-day
 shell, Git, and editor configuration.
 
-|    | Repository                                                                | Description                                                    |
-|----|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| 🚧 | [gitex](https://github.com/kieranpotts/gitex)                             | Git extensions for common source control workflows.            |
-| 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects. |
-| 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap)                     | Shell scripts to provision my local development environment.   |
-| 🚀 | [devtools](https://github.com/kieranpotts/devtools)                       | Configs and binaries for my development tools.                 |
-| 🚀 | [dotfiles](https://github.com/kieranpotts/dotfiles)                       | My UNIX dotfiles.                                              |
-| 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.          |
-| 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                          |
-| 🚀 | [.github](https://github.com/kieranpotts/.github)                         | Issue and PR templates for all my personal repositories.       |
+|    | Repository                                                                | Description                                                          |
+|----|---------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 🚧 | [gitex](https://github.com/kieranpotts/gitex)                             | Git extensions for common source control workflows.                  |
+| 🚀 | [workspace](https://github.com/kieranpotts/workspace)                     | Install scripts and workspace config for my personal projects.       |
+| 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap)                     | Shell scripts to provision my local development environment.         |
+| 🚀 | [devtools](https://github.com/kieranpotts/devtools)                       | Configs and binaries for my development tools.                       |
+| 🚀 | [dotfiles](https://github.com/kieranpotts/dotfiles)                       | My UNIX dotfiles.                                                    |
+| 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.                |
+| 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                                |
+| 🚧 | [gh-runner](https://github.com/kieranpotts/gh-runner)                     | Infrastructure for a local self-host GitHub Actions workflow runner. |
+| 🚀 | [.github](https://github.com/kieranpotts/.github)                         | Issue and PR templates for all my personal repositories.             |
 
 ### Other devtools
 
