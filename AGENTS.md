@@ -24,3 +24,20 @@ maintenance / archived).
 - When adding, renaming, or changing the status of a sibling repository,
   update the corresponding row in `README.md` to keep the profile page
   accurate.
+
+## References
+
+The following technical standards (TS) govern this project. Fetch and ingest
+the relevant standards as-and-when required for the task at hand.
+
+- [**TS-9: Version Control**](https://kieranpotts.com/standards/009) \
+  Use when working with Git. Covers commits, branching, merging, integration
+  strategies, cutting releases, and configuring Git/PR/CI tooling.
+
+- [**TS-26: Technical Writing Style Guide**](https://kieranpotts.com/standards/026) \
+  Use when writing or editing the prose of a technical document. Covers
+  tone-of-voice, headings, terminology, lists, and citations.
+
+- [**TS-27: Markdown**](https://kieranpotts.com/standards/027) \
+  Use when writing or reviewing Markdown documents. Covers READMEs, changelogs,
+  PR descriptions, and issue comments.
