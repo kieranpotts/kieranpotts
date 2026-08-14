@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kieran
 
-I'm a staff software developer with 20 years experience designing, building,
+I'm a staff-level software developer with 20 years experience designing, building,
 and documenting full-stack web applications for enterprise. I'm based near
 Bristol and Bath in the south-west of England.
 
