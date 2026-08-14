@@ -53,8 +53,10 @@ shell, Git, and editor configuration.
 | 🚀 | [dotfiles](https://github.com/kieranpotts/dotfiles)                       | My UNIX dotfiles.                                                    |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.                |
 | 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                                |
-| 🚧 | [gh-runner](https://github.com/kieranpotts/gh-runner)                     | Infrastructure for a local self-host GitHub Actions workflow runner. |
+| 🚧 | [gh-runner](https://github.com/kieranpotts/gh-runner)                     | Infrastructure for a self-hosted GitHub Actions workflow runner. (†) |
 | 🚀 | [.github](https://github.com/kieranpotts/.github)                         | Issue and PR templates for all my personal repositories.             |
+
+(†) Private, as using self-hosted runners in public repositories carries security risks.
 
 ### Other devtools
 
