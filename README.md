@@ -51,12 +51,13 @@ shell, Git, and editor configuration.
 | 🚀 | [bootstrap](https://github.com/kieranpotts/bootstrap)                     | Shell scripts to provision my local development environment.         |
 | 🚀 | [devtools](https://github.com/kieranpotts/devtools)                       | Configs and binaries for my development tools.                       |
 | 🚀 | [dotfiles](https://github.com/kieranpotts/dotfiles)                       | My UNIX dotfiles.                                                    |
+| 🚀 | [popos](https://github.com/kieranpotts/popos)                             | My Pop_OS! config.                                                   |
 | 🚀 | [pre-commit-hooks](https://github.com/kieranpotts/pre-commit-hooks)       | Reusable configurations for the pre-commit framework.                |
 | 🚀 | [template](https://github.com/kieranpotts/template)                       | A template for new code repositories.                                |
 | 🚧 | [gh-runner](https://github.com/kieranpotts/gh-runner)                     | Infrastructure for a self-hosted GitHub Actions workflow runner. (†) |
 | 🚀 | [.github](https://github.com/kieranpotts/.github)                         | Issue and PR templates for all my personal repositories.             |
 
-(†) Private, as using self-hosted runners in public repositories carries security risks.
+(†) This is a private repository, because using self-hosted runners in public repositories carries security risks.
 
 ### Other devtools
 
