@@ -82,7 +82,7 @@ including my website, blog, digital garden, and résumé.
 |    | Repository                                            | Description                                                                           |
 |----|-------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 🚀 | [website](https://github.com/kieranpotts/website)     | Build scripts for my website.                                                         |
-| 🚀 | [thoughts](https://github.com/kieranpotts/thoughts)   | Source files, and build and deployment scripts, for my blog.                          |
+| 🚀 | [essays](https://github.com/kieranpotts/essays)       | Source files, and build and deployment scripts, for my blog.                          |
 | 🚀 | [garden](https://github.com/kieranpotts/garden)       | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
 | 🚀 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb.                                             |
 | 🚀 | [cheats](https://github.com/kieranpotts/cheats)       | My personal documentation and learning notes for various languages and tools.         |
