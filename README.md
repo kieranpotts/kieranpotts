@@ -11,7 +11,7 @@ based near Bristol and Bath in the south-west of England.
 
 ## Projects
 
-🚧 under construction 🚀 active development ⚒️ maintenance 🔒 archived
+🚧 under construction 🚀 active development ⚒️ maintenance
 
 ### Agentic workflow tools
 
@@ -25,18 +25,17 @@ version-controlled systems for managing software requirements,
 technical decisions, design documentation, delivery plans,
 architectural audits, and security analysis.
 
-|    | Repository                                              | Description                                                                          |
-|----|---------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 🚀 | [pi](https://github.com/kieranpotts/pi)                 | Personal and experimental extensions for the Pi coding agent.                        |
-| 🚀 | [genie](https://github.com/kieranpotts/genie)           | Hardened agent harness infrastructure for away-from-keyword, agentic loop workflows. |
-| 🔒 | [modelfiles](https://github.com/kieranpotts/modelfiles) | Custom model definitions for running in Ollama.                                      |
-| 🚀 | [skills](https://github.com/kieranpotts/skills)         | Discrete, reusable capabilities for AI agents.                                       |
-| ⚒️ | [specs](https://github.com/kieranpotts/specs)           | A template for a software requirements specification (SRS) repository.               |
-| ⚒️ | [rfc](https://github.com/kieranpotts/rfc)               | A template for a Requests for Comments (RFCs) process.                               |
-| ⚒️ | [design](https://github.com/kieranpotts/design)         | A template for managing design docs in version control.                              |
-| ⚒️ | [plans](https://github.com/kieranpotts/plans)           | A template for managing delivery plans in version control.                           |
-| ⚒️ | [audits](https://github.com/kieranpotts/audits)         | A template for managing architectural audits in version control.                     |
-| ⚒️ | [risks](https://github.com/kieranpotts/risks)           | A template for a risk register and for threat modeling workshop reports.             |
+|    | Repository                                      | Description                                                                          |
+|----|-------------------------------------------------|--------------------------------------------------------------------------------------|
+| 🚀 | [pi](https://github.com/kieranpotts/pi)         | Personal and experimental extensions for the Pi coding agent.                        |
+| 🚀 | [genie](https://github.com/kieranpotts/genie)   | Hardened agent harness infrastructure for away-from-keyword, agentic loop workflows. |
+| 🚀 | [skills](https://github.com/kieranpotts/skills) | Discrete, reusable capabilities for AI agents.                                       |
+| ⚒️ | [specs](https://github.com/kieranpotts/specs)   | A template for a software requirements specification (SRS) repository.               |
+| ⚒️ | [rfc](https://github.com/kieranpotts/rfc)       | A template for a Requests for Comments (RFCs) process.                               |
+| ⚒️ | [design](https://github.com/kieranpotts/design) | A template for managing design docs in version control.                              |
+| ⚒️ | [plans](https://github.com/kieranpotts/plans)   | A template for managing delivery plans in version control.                           |
+| ⚒️ | [audits](https://github.com/kieranpotts/audits) | A template for managing architectural audits in version control.                     |
+| ⚒️ | [risks](https://github.com/kieranpotts/risks)   | A template for a risk register and for threat modeling workshop reports.             |
 
 ### Local development environment
 
@@ -90,20 +89,3 @@ including my website, blog, digital garden, and résumé.
 | 🚀 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards.                                                      |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume)       | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.   |
 | ⚒️ | [avatar](https://github.com/kieranpotts/avatar)       | My profile icon.                                                                      |
-
-### Archived projects
-
-Older projects I no longer maintain or actively use, kept for reference
-or posterity.
-
-|    | Repository                                                    | Description                                                |
-|----|---------------------------------------------------------------|------------------------------------------------------------|
-| 🔒 | [devboxes](https://github.com/kieranpotts/devboxes)           | Local development VMs for various software stacks.         |
-| 🔒 | [eslint-config](https://github.com/kieranpotts/eslint-config) | ESLint configuration to enforce my JS/TS coding standards. |
-| 🔒 | [genies](https://github.com/kieranpotts/genies)               | Local LLM-based AI instances for code generation.          |
-| 🔒 | [makebook](https://github.com/kieranpotts/makebook)           | VM and starter kit for making books with Pandoc.           |
-| 🔒 | [ocean](https://github.com/kieranpotts/ocean)                 | Experimental Ocean-themed VS Code theme.                   |
-| 🔒 | [prototypes](https://github.com/kieranpotts/prototypes)       | Code experiments.                                          |
-| 🔒 | [sh](https://github.com/kieranpotts/sh)                       | Archive of random shell scripts.                           |
-| 🔒 | [tests](https://github.com/kieranpotts/tests)                 | Take-home technical tests for IT recruitment.              |
-| 🔒 | [website-ui](https://github.com/kieranpotts/website-ui)       | Custom Antora theme for my website.                        |
