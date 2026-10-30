@@ -6,7 +6,7 @@ repo whose `README.md` is rendered on his GitHub profile page
 project is that one file, an index of his personal repositories grouped by
 theme (agentic workflow tools, local dev environment, devtools/templates,
 etc.), each annotated with a status emoji (under construction / active /
-maintenance).
+maintenance / archived).
 
 ## Tech stack
 

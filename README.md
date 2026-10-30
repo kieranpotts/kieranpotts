@@ -11,7 +11,7 @@ based near Bristol and Bath in the south-west of England.
 
 ## Projects
 
-🚧 under construction 🚀 active development ⚒️ maintenance
+🚧 under construction 🚀 active development ⚒️ maintenance 🔒 archived
 
 ### Agentic workflow tools
 
@@ -63,15 +63,15 @@ shell, Git, and editor configuration.
 Standalone tools, templates, and reference libraries that support my
 software projects.
 
-|    | Repository                                                                | Description                                                    |
-|----|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| 🚀 | [actions](https://github.com/kieranpotts/actions)                         | Reusable GitHub CI/CD workflows.                               |
-| ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook)                     | A template for authoring technical books from AsciiDoc.        |
-| 🚀 | [dictionary](https://github.com/kieranpotts/dictionary)                   | Allowed spellings.                                             |
-| 🚀 | [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | Docker image of my local dev environment.                      |
-| ⚒️ | [docker-latex](https://github.com/kieranpotts/docker-latex)               | Docker image for compiling documents from LaTeX sources.       |
-| ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                         |
-| 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                 |
+|    | Repository                                                                | Description                                                                    |
+|----|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 🚀 | [actions](https://github.com/kieranpotts/actions)                         | Reusable GitHub CI/CD workflows.                                               |
+| ⚒️ | [asciibook](https://github.com/kieranpotts/asciibook)                     | A template for authoring technical books from AsciiDoc.                        |
+| 🚀 | [dictionary](https://github.com/kieranpotts/dictionary)                   | Allowed spellings.                                                             |
+| 🚀 | [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | Docker image of my local dev environment.                                      |
+| 🔒 | [docker-latex](https://github.com/kieranpotts/docker-latex)               | Docker image for compiling documents from LaTeX sources. No longer maintained. |
+| ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                                         |
+| 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                                 |
 
 ### Content
 
