@@ -27,6 +27,7 @@ and security and architectural audits.
 | ⚒️ | [audits](https://github.com/kieranpotts/audits) | A template for managing architectural audits in version control.                     |
 | ⚒️ | [design](https://github.com/kieranpotts/design) | A template for managing design docs in version control.                              |
 | 🚀 | [genie](https://github.com/kieranpotts/genie)   | Hardened agent harness infrastructure for away-from-keyword, agentic loop workflows. |
+| 🔒 | [loop](https://github.com/kieranpotts/loop)     | Runs agentic loop workflows from YAML definitions. Proof-of-concept, not maintained. |
 | 🚀 | [pi](https://github.com/kieranpotts/pi)         | Personal and experimental extensions for the Pi coding agent.                        |
 | ⚒️ | [plans](https://github.com/kieranpotts/plans)   | A template for managing delivery plans in version control.                           |
 | ⚒️ | [rfc](https://github.com/kieranpotts/rfc)       | A template for a Requests for Comments (RFCs) process.                               |
