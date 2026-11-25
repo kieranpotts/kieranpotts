@@ -84,7 +84,6 @@ including my website, blog, digital garden, and résumé.
 | 🚀 | [garden](https://github.com/kieranpotts/garden)       | My digital garden - a structured repository of bookmarks, notes, thoughts, and ideas. |
 | 🚀 | [bookmarks](https://github.com/kieranpotts/bookmarks) | Interesting destinations on the interweb.                                             |
 | 🚀 | [cheats](https://github.com/kieranpotts/cheats)       | My personal documentation and learning notes for various languages and tools.         |
-| 🚧 | [playbook](https://github.com/kieranpotts/playbook)   | Documents my software development methods and tools.                                  |
 | 🚀 | [standards](https://github.com/kieranpotts/standards) | My personal technical standards.                                                      |
 | 🚀 | [résumé](https://github.com/kieranpotts/resume)       | Source content and build scripts for my curriculum vitae (CV), compiled from LaTeX.   |
 | ⚒️ | [avatar](https://github.com/kieranpotts/avatar)       | My profile icon.                                                                      |
