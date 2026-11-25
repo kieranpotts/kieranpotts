@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Kieran
 
-I'm a staff-level software developer with 20+ years' experience designing,
+I'm a freelance software developer with 20+ years' experience designing,
 building, and documenting full-stack web applications for enterprise. I'm
 based near Bristol and Bath in the south-west of England.
 
 [![Blog](https://img.shields.io/badge/kieranpotts.com-0A66C2?style=for-the-badge)](https://kieranpotts.com/)
 [![Email](https://img.shields.io/badge/code@kieranpotts.com-0A66C2?style=for-the-badge)](mailto:code@kieranpotts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kieranpotts/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0A66C2?style=for-the-badge)](https://bsky.app/profile/kieranpotts.com)
 
 ## Projects
 
