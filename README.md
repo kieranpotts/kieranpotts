@@ -70,7 +70,7 @@ software projects.
 | 🚀 | [dictionary](https://github.com/kieranpotts/dictionary)                   | Allowed spellings.                                                             |
 | 🚀 | [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | Docker image of my local dev environment.                                      |
 | 🔒 | [docker-latex](https://github.com/kieranpotts/docker-latex)               | Docker image for compiling documents from LaTeX sources. No longer maintained. |
-| ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                                         |
+| 🔒 | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types. No longer maintained.                   |
 
 ### Content
 
