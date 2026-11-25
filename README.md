@@ -71,7 +71,6 @@ software projects.
 | 🚀 | [docker-devcontainer](https://github.com/kieranpotts/docker-devcontainer) | Docker image of my local dev environment.                                      |
 | 🔒 | [docker-latex](https://github.com/kieranpotts/docker-latex)               | Docker image for compiling documents from LaTeX sources. No longer maintained. |
 | ⚒️ | [json-schema](https://github.com/kieranpotts/json-schema)                 | A library of common JSON Schema types.                                         |
-| 🚧 | [lumex](https://github.com/kieranpotts/lumex)                             | A modern VS Code theme family.                                                 |
 
 ### Content
 
